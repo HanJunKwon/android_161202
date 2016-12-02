@@ -1,5 +1,6 @@
 package com.example.a403.myapplication;
 
+import android.graphics.Color;
 import android.icu.util.Calendar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -36,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 cm.start();
+                cm.setTextColor(Color.RED);
             }
         });
     }
