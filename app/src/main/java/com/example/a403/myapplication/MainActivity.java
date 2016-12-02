@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.CalendarView;
 import android.widget.Chronometer;
+import android.widget.RadioGroup;
 import android.widget.TimePicker;
 
 
@@ -16,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     CalendarView cv;
     TimePicker tp;
     Button btn1, btn2;
-
+    RadioGroup rg;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -26,8 +27,8 @@ public class MainActivity extends AppCompatActivity {
         tp = (TimePicker)findViewById(R.id.timePicker);
         cm = (Chronometer)findViewById(R.id.chronometer2);
 
-
         setButton();
+        setRadioGroup();
     }
 
     void setButton(){
@@ -38,6 +39,23 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 cm.start();
                 cm.setTextColor(Color.RED);
+            }
+        });
+    }
+
+    void setRadioGroup(){
+        rg = (RadioGroup)findViewById(R.id.raioGroup);
+        rg.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(RadioGroup group, int checkedId) {
+                if(checkedId == R.id.radioButton){
+                    cv.setVisibility(View.VISIBLE);
+                    tp.setVisibility(View.INVISIBLE);
+                }
+                else if(checkedId == R.id.radioButton2){
+                    cv.setVisibility(View.INVISIBLE);
+                    tp.setVisibility(View.VISIBLE);
+                }
             }
         });
     }
