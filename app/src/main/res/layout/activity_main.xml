@@ -19,6 +19,7 @@
         android:id="@+id/button" />
 
     <RadioGroup
+        android:orientation="horizontal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" >
 
@@ -27,20 +28,19 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/radioButton"
-            android:layout_weight="1" />
+            android:checked="true" />
 
         <RadioButton
-            android:text="RadioButton"
+            android:text="시간 설정"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/radioButton2"
-            android:layout_weight="1"
-            tools:text="시간 설정" />
+            android:id="@+id/radioButton2" />
     </RadioGroup>
 
     <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
 
         <CalendarView
             android:layout_width="wrap_content"
@@ -50,26 +50,25 @@
         <TimePicker
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/timePicker" />
+            android:id="@+id/timePicker"
+            android:visibility="invisible"/>
     </FrameLayout>
 
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="wrap_content">
 
         <Button
             android:text="예약 완료"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/button2"
-            android:layout_weight="0.26" />
+            android:id="@+id/button2"/>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/textView"
-            android:layout_weight="1.23" />
+            android:id="@+id/textView" />
 
     </LinearLayout>
 </LinearLayout>
