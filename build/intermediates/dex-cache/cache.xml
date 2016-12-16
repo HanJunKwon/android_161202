@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\inhatc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\hanjun\android\android_161202\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_01493ecde7128b39eaa4a0650bfd20a43d9b2045.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hanjun\android\android_161202\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\hanjun\android\android_161202\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_69e313e5456fadecc5021d9eab65cb6630f32fdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hanjun\android\android_161202\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\hanjun\android\android_161202\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6a37828f35f897ce509edc3e68a92d94a77ea4ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hanjun\android\android_161202\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\hanjun\android\android_161202\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_42d74a93f15b5fab1560ff7487c30df5b9925004.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hanjun\android\android_161202\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\hanjun\android\android_161202\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3fbbc126edca1d9783585f4f2f7c049b5d383cf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hanjun\android\android_161202\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\hanjun\android\android_161202\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_1b050e69cef7b2d238cba778494051ba76694211.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hanjun\android\android_161202\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\hanjun\android\android_161202\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e9772e91be764543c05d5b6f091829e194f06526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hanjun\android\android_161202\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\hanjun\android\android_161202\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_beb1ddbb9e39088eafb826f19677b7b0df2529b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hanjun\android\android_161202\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\hanjun\android\android_161202\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_df996d7c7df2f4d62eedb2ec59793e358ebf17d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hanjun\android\android_161202\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\hanjun\android\android_161202\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_2e9babd3c50e3fcf79ed29ca353704510ec1b215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hanjun\android\android_161202\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\hanjun\android\android_161202\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_dde23efb672b451319abeb6d9b64f958ce4960cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hanjun\android\android_161202\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\hanjun\android\android_161202\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_90315875e31f2f7aa6d1c9fb3c0e621a84860702.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hanjun\android\android_161202\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\hanjun\android\android_161202\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_572f19d134b5d3dac9220e5af87059c27f904cbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hanjun\android\android_161202\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\hanjun\android\android_161202\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d2cd78c43264fc0db36ac086b453845ce9b1b1b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hanjun\android\android_161202\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\hanjun\android\android_161202\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_a957fda3f9fa5508fbc5d6e9793b940e1f1feaa7.jar" />
+    </item>
+
+</items>
